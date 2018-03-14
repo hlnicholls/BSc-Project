@@ -1,4 +1,6 @@
 # Designing-a-system-to-predict-breast-cancer-malignancy
-Coding machine learning algorithms to predict whether a breast cancer is benign or malignant using tumour nuclei data the Wisconsin Breast Cancer Dataset.
+Using machine learning to predict whether a breast cancer is benign or malignant using tumour nuclei data the Wisconsin Breast Cancer Dataset.
 
-Focusing on comparing performance of scikit-learn algorithms, with and without feature selection, against "from scratch"/independently coded logistic regression.
+Investigating the performance of scikit-learn algorithms and a "from scratch"/independently coded logistic regression, comparing with and without Chi2, ANOVA and feature coefficient feature selection methods.
+
+Python notebooks numbered 1-6 contain code for results included in this project's report.
